@@ -1,0 +1,16 @@
+FFmpeg-AutoToolkit/
+├── main.py
+├── ffmpeg_manager.py
+├── audio_processor.py
+├── video_processor.py
+├── gui.py
+├── config.ini
+├── requirements.txt
+├── tests/
+│   ├── test_ffmpeg_manager.py
+│   ├── test_audio_processor.py
+│   └── test_video_processor.py
+└── docs/
+    ├── README.md
+    ├── USER_MANUAL.md
+    └── DEVELOPER_GUIDE.md
