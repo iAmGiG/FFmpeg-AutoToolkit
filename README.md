@@ -9,12 +9,6 @@
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Platform Support](#platform-support)
-6. [Dependencies](#dependencies)
-7. [Folder Structure](#folder-structure)
-8. [Future Enhancements](#future-enhancements)
-9. [License](#license)
 
 ---
 
